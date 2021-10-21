@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "Post API",
+        "url": "https://mock.codes/200"
+
+    },
+    {
+        "id": 2,
+        "name": "Comment API",
+        "url": "https://mock.codes/200"
+    },
+    {
+        "id": 3,
+        "name": "Album API",
+        "url": "https://mock.codes/200"
+    },
+    {
+        "id": 4,
+        "name": "Photo API",
+        "url": "https://mock.codes/200"
+    },
+    {
+        "id": 5,
+        "name": "Todo API",
+        "url": "https://mock.codes/200"
+    },
+    {
+        "id": 6,
+        "name": "User API",
+        "url": "https://mock.codes/500"
+    }
+]
